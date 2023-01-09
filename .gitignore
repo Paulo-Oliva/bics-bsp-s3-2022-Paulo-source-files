@@ -1,0 +1,9 @@
+# VSCode Workspace Settings
+.vscode
+
+# Pycache
+__pycache__
+
+# Trained models
+models/*
+
